@@ -1,8 +1,8 @@
 # AI-Assisted UX Testing and Co-Design for Academic Library Guides
 
-This repository contains the sanitized codebase, prompting methodology, and synthesized visual outputs for our two-phase research project on academic library guide (LibGuides) optimization. 
+This repository contains the sanitized codebase, prompting methodology, and synthesized visual outputs for my two-phase research project on academic library guide (LibGuides) optimization. 
 
-By applying "vibe coding" approaches using Generative AI (**Google Gemini**) guided by the **CLEAR Framework** (Lo, 2023), we rapidly developed a 7-tab usability testing application with zero reliance on internal IT infrastructure.
+By applying "vibe coding" approaches using Generative AI (**Google Gemini**) guided by the **CLEAR Framework** (Lo, 2023), I rapidly developed a 7-tab usability testing application with zero reliance on internal IT infrastructure.
 
 ---
 
