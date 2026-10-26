@@ -23,7 +23,7 @@ Although stateless LLM chat sessions are not directly preserved, the technical p
 * **Logical (L):** Sequenced instructions moving from UI component placement to backend string validation logic, error logging, and deployment.
 * **Explicit (E):** Strictly defined rules including embedded inline CSS, commented verification functions, and instant text field clearing upon task submission.
 * **Adaptive (A):** Iterative prompt tuning to resolve UI responsiveness bugs and field state updates across tab switches.
-* **Reflective (R):** Continuous feedback loops re-inputting runtime warning messages back into Gemini, achieving a **0% application crash rate** during user testing.
+* **Reflective (R):** Continuous feedback loops re-inputting runtime warning messages back into Gemini.
 
 ---
 
